@@ -1,6 +1,8 @@
 # Stuff
 - [ES Linter](https://fullstackopen.com/en/part3/validation_and_es_lint#lint)
 - [Save User To Local Storage](https://fullstackopen.com/en/part5/login_in_frontend#saving-the-token-to-the-browsers-local-storage)
+- [Styling Toast Notification](https://fkhadra.github.io/react-toastify/introduction/)
+
 
 ## Links
 - https://www.geeksforgeeks.org/top-industries-using-virtual-reality/
